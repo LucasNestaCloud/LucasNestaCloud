@@ -26,8 +26,6 @@
 | 🎓 Formação | 🏅 Certificações Microsoft |
 |:-----------:|:--------------------------:|
 | **Análise e Desenvolvimento de Sistemas** | **AZ-900** · **MS-900** · **SC-900** |
-| Tecnologia da Informação | Azure · Microsoft 365 · Security |
-| Foco em Cloud Computing & DevOps | Fundamentals Certified |
 
 </div>
 
